@@ -30,6 +30,6 @@ The following **nice to have** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/haolin1997/ICS45J-AndroidAppAssignment/blob/master/todolist-walkthrough.gif' title='todolist-walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
